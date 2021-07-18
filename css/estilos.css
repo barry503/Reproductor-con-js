@@ -1,0 +1,24 @@
+
+.bg-negro{
+    background: #050B00;
+}
+.bg-morado{
+    background: #CB66D5;
+}
+.text-morado{
+    color: #CB66D5;
+}
+.t-50{
+    font-size: 50px;
+}
+.t-100{
+    font-size: 100px;
+}
+.t-200{
+    font-size: 200px;
+}
+.bg-s{
+    background: #C7D0BE;
+}
+
+/*@media (min-width:576px){}*/
